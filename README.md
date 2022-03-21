@@ -1,2 +1,2 @@
 # airport_DB
-<img src="ERD.jpg">
+<img src="ERD.png">
