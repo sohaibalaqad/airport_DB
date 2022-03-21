@@ -1,0 +1,1 @@
+alter table employee add CONSTRAINT fk_employee FOREIGN key (AIRPORT_id) REFERENCES airport(AIRPORT_id);
